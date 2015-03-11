@@ -1,3 +1,3 @@
 # GitTest
-The repo used to pratice how to use github
+The repo used to pratice how to use github.
 Happy new year?
